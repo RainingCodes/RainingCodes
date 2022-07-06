@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### About Me
+I am Minji Lee, a senior at Dongduk Women's University. I'm majoring Computer Science and I'll be graduating next year. 
+<br><br>
+
+    
